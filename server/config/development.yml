@@ -1,0 +1,9 @@
+---
+  port: 4000
+  db:
+    user: "postgres"
+    password: ""
+    host: "127.0.0.1"
+    port: "5432"
+    database: "cdn_development"
+  files_dir: "../../files"

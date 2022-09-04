@@ -1,0 +1,8 @@
+---
+  port: 3000
+  db:
+    user: "match3editoruser"
+    password: "sdbTwdb23hS"
+    host: "match3editordb.cnhobh2wn0wl.us-west-2.rds.amazonaws.com"
+    port: "5432"
+    database: "match3editordb"
